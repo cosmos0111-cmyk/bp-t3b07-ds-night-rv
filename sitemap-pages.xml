@@ -36,16 +36,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/gemini-coverage-20260719-0496.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/gemini-coverage-20260719-0497.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://dangsan-guide-review.hardcoreroom.com/posts/gemini-coverage-20260719-0498.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -61,12 +51,62 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/gemini-coverage-20260721-0075.html</loc>
+    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/gemini-coverage-20260721-0076.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/gemini-coverage-20260721-0076.html</loc>
+    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/gemini-coverage-20260722-0337.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/myth-001-14ma2ho.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-guide-review.hardcoreroom.com/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/normal-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/gemini-coverage-20260719-0496.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/gemini-coverage-20260719-0497.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/gemini-coverage-20260721-0075.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -151,11 +191,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/gemini-coverage-20260722-0337.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://dangsan-guide-review.hardcoreroom.com/posts/gemini-coverage-20260722-0338.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -172,46 +207,6 @@
   </url>
   <url>
     <loc>https://dangsan-guide-review.hardcoreroom.com/posts/gemini-coverage-20260722-0341.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/juice-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/juice-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/myth-001-14ma2ho.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/normal-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/normal-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-guide-review.hardcoreroom.com/posts/normal-3.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-guide-review.hardcoreroom.com/posts.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://dangsan-guide-review.hardcoreroom.com/posts-2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
